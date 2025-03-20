@@ -1,0 +1,2 @@
+all:
+	@lua init.lua
